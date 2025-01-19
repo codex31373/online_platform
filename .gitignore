@@ -1,0 +1,19 @@
+# Ignore project.mobirise file
+project.mobirise
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore temp files
+*.tmp
